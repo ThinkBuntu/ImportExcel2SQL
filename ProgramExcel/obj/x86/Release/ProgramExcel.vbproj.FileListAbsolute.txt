@@ -1,0 +1,68 @@
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe.manifest
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.application
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.pdb
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.xml
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.vbproj.ResolveComReference.cache
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Form_Import.resources
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Resources.resources
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Report.resources
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.read.1.tlog
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.write.1.tlog
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe.manifest
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.application
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.xml
+D:\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.pdb
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.vbproj.ResolveComReference.cache
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.xml
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.pdb
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe.manifest
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.application
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.pdb
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.xml
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ResolveAssemblyReference.cache
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Form_Import.resources
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Resources.resources
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Report.resources
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.read.1.tlog
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.write.1.tlog
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe.manifest
+\\192.168.0.251\it only\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.application
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.vbproj.ResolveComReference.cache
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.xml
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.pdb
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe.manifest
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.application
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.pdb
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.xml
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ResolveAssemblyReference.cache
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Form_Import.resources
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Resources.resources
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Report.resources
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.read.1.tlog
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.write.1.tlog
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe.manifest
+X:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.application
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.vbproj.ResolveComReference.cache
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.xml
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.pdb
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe.manifest
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.application
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.exe
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.pdb
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\bin\Release\ProgramExcel.xml
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ResolveAssemblyReference.cache
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Form_Import.resources
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Resources.resources
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.Report.resources
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.read.1.tlog
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\GenerateResource.write.1.tlog
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.exe.manifest
+Y:\MARKETING MKT\VB.NET\201210\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\ProgramExcel\obj\x86\Release\ProgramExcel.application
